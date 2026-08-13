@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="Header Banner" />
-  <br/><br/>
-  <h1>ELMURODOV SARDOR</h1>
-  <h3>Full-Stack Developer · Mobile Developer</h3>
-  <p>
-    Web · Mobile · UI/UX · AI · Telegram Bots
-  </p>
-  <p>
-    <kbd>&nbsp;DESIGN. BUILD. SHIP.&nbsp;</kbd>
-  </p>
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3B82F6,100,07111F&height=250&section=header&text=ELMURODOV%20SARDOR&desc=Full-Stack%20%26%20Mobile%20Developer&fontSize=50&descSize=20&fontAlignY=38&descAlignY=61&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+•+Django+•+Flutter;Web+•+Mobile+•+UI%2FUX;AI+•+Telegram+Bots+•+Automation" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/sardorelmurodov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -43,7 +42,7 @@ My focus is not only writing code, but turning ideas into usable, well-structure
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </td>
     </tr>
     <tr>
@@ -52,6 +51,7 @@ My focus is not only writing code, but turning ideas into usable, well-structure
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -79,32 +79,14 @@ My focus is not only writing code, but turning ideas into usable, well-structure
 
 ## 🚀 Featured Projects
 
-### 🎮 [BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS) &nbsp; <a href="https://bolajon-os.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-*Cross-platform educational product*  
-A gamified learning ecosystem combining a Flutter application with a Django REST backend and parental control features.  
-> **Stack:** `Flutter` `Dart` `Django` `Django REST Framework` `PostgreSQL`  
-> **Highlights:** Gamified learning | Parent dashboard | Progress tracking | Cross-platform application | Authentication | Backend API  
-
----
-
-### 🌍 [Geoekofauna Uzbekistan](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)
-*Digital platform for biodiversity and ecological data*  
-A project focused on presenting and managing information related to Uzbekistan's fauna and ecological data.  
-> **Stack:** `Next.js` `Django` `PostgreSQL`  
-
----
-
-### 🎩 [Sehrli Qalpoqcha](https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha)
-*Computer Vision Experiment*  
-A Python + OpenCV project that detects a selected colored cloak and applies a real-time invisibility effect using background replacement and face detection.  
-> **Stack:** `Python` `OpenCV` `NumPy` `Computer Vision`  
-
----
-
-### 🎓 [Aziz Academy](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)
-*Programming Practice & Learning Repository*  
-A structured collection of programming exercises covering Python fundamentals, strings, algorithms, data structures, OOP and other development topics.  
-> **Stack:** `Python`  
+| Project | Live Demo | Status | Description | Tech Stack |
+|---------|-----------|--------|-------------|------------|
+| 🛍️ **[EVZAP E-Commerce](https://github.com/Sardor-Dev-2010/evzap-ecommerce)** | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium luxury e-commerce platform with multilingual support, Telegram bot, admin panel | Next.js, Tailwind, Django, Redis |
+| 🎨 **Portfolio Elite** | [🔗 sardor-portfolio-elite.web.app](https://sardor-portfolio-elite.web.app) | 🔒 Private | Immersive full-stack portfolio with 3D scenes, AI Assistant, admin dashboard | Next.js 14, Three.js, Django, TypeScript |
+| 🎮 **[BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS)** | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔓 Public | Educational cross-platform OS for kids with gamified learning and parental dashboard | Flutter, Django REST, PostgreSQL |
+| 🌍 **[Geoekofauna](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)** | — | 🔓 Public | Digital platform for biodiversity and ecological data across Uzbekistan | Next.js, Django, PostgreSQL |
+| 🎩 **[Sehrli Qalpoqcha](https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha)** | — | 🔓 Public | Computer Vision experiment that applies a real-time invisibility effect | Python, OpenCV, NumPy |
+| 🎓 **[Aziz Academy](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)** | — | 🔓 Public | 300+ Python algorithmic exercises across 30+ programming topics | Python |
 
 <br/>
 
@@ -121,13 +103,32 @@ A structured collection of programming exercises covering Python fundamentals, s
 
 <br/>
 
-## 🔬 Currently Exploring
-- Advanced Full-Stack Architecture
-- AI Agents
-- Automation Systems
-- Product Design
-- Scalable Backend Architecture
-- Modern Web Experiences
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=07111F&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sardor-Dev-2010&hide_border=true&background=07111F&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff" height="165" />
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardor-Dev-2010&hide_border=true&bg_color=07111F&color=3B82F6&line=3B82F6&point=ffffff&custom_title=Contribution%20Graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sardor-Dev-2010&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
+</div>
 
 <br/>
 
@@ -142,25 +143,6 @@ I believe a strong product is not only about code. It is about:
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-Have an idea, project or opportunity? **Let's build something useful.**
-
-<div align="center">
-  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/sardorelmurodov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<br/>
-<div align="center">
-  <kbd>&nbsp;Design. Build. Ship.&nbsp;</kbd>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,07111F,100,3B82F6&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
