@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,100:3B82F6&height=250&section=header&text=Elmurodov%20Sardor&desc=Full-Stack%20%26%20Mobile%20Developer&fontSize=50&descSize=20&fontAlignY=38&descAlignY=61&fontColor=ffffff" width="100%"/>
-</div>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+•+Django+•+Flutter;Web+•+Mobile+•+UI%2FUX;AI+•+Telegram+Bots+•+Automation" alt="Typing SVG" />
-</h2>
-
-<div align="center">
+  <br/>
+  <h1>ELMURODOV SARDOR</h1>
+  <h3>Full-Stack Developer · Mobile Developer</h3>
+  <p>
+    Web · Mobile · UI/UX · AI · Telegram Bots
+  </p>
+  <p>
+    <kbd>&nbsp;DESIGN. BUILD. SHIP.&nbsp;</kbd>
+  </p>
+  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
+
 I build modern web, mobile and digital products across frontend, backend, APIs, databases and UI/UX.  
 My focus is not only writing code, but turning ideas into usable, well-structured products.
 
@@ -74,40 +78,32 @@ My focus is not only writing code, but turning ideas into usable, well-structure
 
 ## 🚀 Featured Projects
 
-### 🎮 BolaJon OS
+### 🎮 [BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS) &nbsp; <a href="https://bolajon-os.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 *Cross-platform educational product*  
 A gamified learning ecosystem combining a Flutter application with a Django REST backend and parental control features.  
 > **Stack:** `Flutter` `Dart` `Django` `Django REST Framework` `PostgreSQL`  
 > **Highlights:** Gamified learning | Parent dashboard | Progress tracking | Cross-platform application | Authentication | Backend API  
 
-[View Repository →](https://github.com/Sardor-Dev-2010/BolaJon-OS) &nbsp; | &nbsp; [Live Demo →](https://bolajon-os.vercel.app/)
-
 ---
 
-### 🌍 Geoekofauna Uzbekistan
+### 🌍 [Geoekofauna Uzbekistan](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)
 *Digital platform for biodiversity and ecological data*  
 A project focused on presenting and managing information related to Uzbekistan's fauna and ecological data.  
 > **Stack:** `Next.js` `Django` `PostgreSQL`  
 
-[View Repository →](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)
-
 ---
 
-### 🎩 Sehrli Qalpoqcha
+### 🎩 [Sehrli Qalpoqcha](https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha)
 *Computer Vision Experiment*  
 A Python + OpenCV project that detects a selected colored cloak and applies a real-time invisibility effect using background replacement and face detection.  
 > **Stack:** `Python` `OpenCV` `NumPy` `Computer Vision`  
 
-[View Repository →](https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha)
-
 ---
 
-### 🎓 Aziz Academy
+### 🎓 [Aziz Academy](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)
 *Programming Practice & Learning Repository*  
 A structured collection of programming exercises covering Python fundamentals, strings, algorithms, data structures, OOP and other development topics.  
 > **Stack:** `Python`  
-
-[View Repository →](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)
 
 <br/>
 
@@ -148,8 +144,7 @@ I believe a strong product is not only about code. It is about:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Sardor-Dev-2010?style=for-the-badge&color=3B82F6&logo=github" />
-  <img src="https://img.shields.io/github/stars/Sardor-Dev-2010?style=for-the-badge&color=3B82F6&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -165,7 +160,6 @@ Have an idea, project or opportunity? **Let's build something useful.**
 </div>
 
 <br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:07111F&height=150&section=footer&text=Design.%20Build.%20Ship.&fontSize=30&fontAlignY=70&fontColor=ffffff" width="100%"/>
+  <kbd>&nbsp;Design. Build. Ship.&nbsp;</kbd>
 </div>
