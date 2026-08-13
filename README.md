@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3B82F6,100,07111F&height=250&section=header&text=ELMURODOV%20SARDOR&desc=Full-Stack%20%26%20Mobile%20Developer&fontSize=50&descSize=20&fontAlignY=38&descAlignY=61&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="./header.svg" width="100%" alt="ELMURODOV SARDOR Header"/>
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+•+Django+•+Flutter;Web+•+Mobile+•+UI%2FUX;AI+•+Telegram+Bots+•+Automation" alt="Typing SVG" />
-</h1>
 
 <div align="center">
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -144,5 +140,5 @@ I believe a strong product is not only about code. It is about:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,07111F,100,3B82F6&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="./footer.svg" width="100%" alt="Footer"/>
 </div>
