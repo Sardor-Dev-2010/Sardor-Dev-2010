@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/SardorDev-2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </div>
