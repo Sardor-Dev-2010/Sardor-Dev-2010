@@ -1,5 +1,6 @@
 <div align="center">
-  <br/>
+  <img src="./banner.jpg" width="100%" alt="Header Banner" />
+  <br/><br/>
   <h1>ELMURODOV SARDOR</h1>
   <h3>Full-Stack Developer · Mobile Developer</h3>
   <p>
