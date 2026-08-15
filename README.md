@@ -79,8 +79,8 @@ My focus is not only writing code, but turning ideas into usable, well-structure
 |---------|-----------|--------|-------------|------------|
 | 🛍️ **[EVZAP E-Commerce](https://github.com/Sardor-Dev-2010/evzap-ecommerce)** | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium luxury e-commerce platform with multilingual support, Telegram bot, admin panel | Next.js, Tailwind, Django, Redis |
 | 🎨 **Portfolio Elite** | [🔗 sardor-portfolio-elite.web.app](https://sardor-portfolio-elite.web.app) | 🔒 Private | Immersive full-stack portfolio with 3D scenes, AI Assistant, admin dashboard | Next.js 14, Three.js, Django, TypeScript |
-| 🎮 **[BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS)** | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔓 Public | Educational cross-platform OS for kids with gamified learning and parental dashboard | Flutter, Django REST, PostgreSQL |
-| 🌍 **[Geoekofauna](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)** | — | 🔓 Public | Digital platform for biodiversity and ecological data across Uzbekistan | Next.js, Django, PostgreSQL |
+| 🎮 **[BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS)** | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔒 Private | Educational cross-platform OS for kids with gamified learning and parental dashboard | Flutter, Django REST, PostgreSQL |
+| 🌍 **[Geoekofauna](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)** | — | 🔒 Private | Digital platform for biodiversity and ecological data across Uzbekistan | Next.js, Django, PostgreSQL |
 | 🎩 **[Sehrli Qalpoqcha](https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha)** | — | 🔓 Public | Computer Vision experiment that applies a real-time invisibility effect | Python, OpenCV, NumPy |
 | 🎓 **[Aziz Academy](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)** | — | 🔓 Public | 300+ Python algorithmic exercises across 30+ programming topics | Python |
 
