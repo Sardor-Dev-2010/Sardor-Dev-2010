@@ -90,18 +90,18 @@ My focus is not only writing code, but turning ideas into usable, well-structure
 
 ## 🚀 Featured Projects
 
-| Project | Live Demo | Status | Description | Tech Stack |
-|---------|-----------|--------|-------------|------------|
-| 🛍️ **EVZAP E-Commerce** | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium multilingual e-commerce platform with Telegram bot, admin panel, 2FA & rate limiting | Flask, SQLAlchemy, Tailwind CSS, PostgreSQL |
-| 🎨 **Portfolio** | [🔗 sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) | 🔒 Private | Immersive full-stack portfolio with 3D scenes, AI assistant & admin dashboard | Next.js 14, Three.js, Django REST |
-| 🎮 **[BolaJon OS](https://github.com/Sardor-Dev-2010/BolaJon-OS)** | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔒 Private | Educational cross-platform "OS" for kids with gamified learning & parental dashboard | Flutter, Django REST, PostgreSQL |
-| 🌍 **[Geoekofauna](https://github.com/Sardor-Dev-2010/Geoekofauna-Uzbekistan)** | [🔗 geoecofauna.uz](https://geoecofauna.uz) | 🔒 Private | Digital platform for biodiversity & ecological data across Uzbekistan | Next.js, Django, PostgreSQL |
-| 🎩 **Sehrli Qalpoqcha** | — | 🔒 Private | Real-time computer-vision invisibility cloak experiment | Python, OpenCV, NumPy + Web demo |
-| 🎓 **[Aziz Academy](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)** | — | 🔓 Public | 300+ Python algorithmic exercises across 30+ programming topics | Python |
+| Project | Category | Live Demo | Status | Description | Tech Stack |
+|---------|----------|-----------|--------|-------------|------------|
+| 🛍️ **EVZAP** | 🛍️ Commerce | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Premium multilingual e-commerce platform with Telegram bot, admin panel, 2FA & rate limiting | Flask, SQLAlchemy, Tailwind CSS, PostgreSQL |
+| 🎨 **Portfolio**<br/><sub>SardorDev-Portfolio</sub> | 🎨 Portfolio | [🔗 sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) | 🔒 Private | Immersive full-stack portfolio with admin CMS, 3D hero & AI assistant | Next.js 16, React 19, Three.js, Django REST, PostgreSQL |
+| 🎮 **BolaJon OS** | 🎓 EdTech | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔒 Private | Educational cross-platform "OS" for kids with gamified learning & parental dashboard | Flutter, Django REST, PostgreSQL |
+| 🌍 **Geoekafauna**<br/><sub>Geoekafauna-UZ</sub> | 🌍 Ecology | [🔗 geoecofauna.uz](https://geoecofauna.uz) | 🔒 Private | Digital platform for biodiversity & ecological data across Uzbekistan | React 19, Vite, Tailwind CSS, Cloudflare Workers |
+| 🎩 **Sehrli Qalpoqcha** | 🔬 Computer Vision | — | 🔒 Private | Real-time computer-vision invisibility cloak experiment | Python, OpenCV, NumPy + Web demo |
+| 🎓 **Aziz Academy** | 🎓 EdTech | — | 🔓 Public | 300+ Python algorithmic exercises across 30+ programming topics | Python |
 
 > 🔒 **Private** repositories are only visible to me — their live demos are open to everyone.
 
-<br/>
+---
 
 ## 🌍 Open Source
 
