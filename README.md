@@ -61,9 +61,15 @@ I build modern web, mobile and digital products across frontend, backend, APIs, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=07111F&langs_count=8" height="165" alt="Top languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sardor-Dev-2010&hide_border=true&background=07111F&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff" height="165" alt="GitHub streak"/>
+
+| 📈 Profile | 📚 Top Languages |
+|:----------:|:----------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F&count_private=true&include_all_commits=true" width="420" alt="GitHub stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=07111F&langs_count=8" width="420" alt="Top languages"/> |
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sardor-Dev-2010&hide_border=true&background=07111F&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideLabels=ffffff" width="420" alt="GitHub streak"/>
+
 </div>
 
 ---
@@ -71,8 +77,11 @@ I build modern web, mobile and digital products across frontend, backend, APIs, 
 ## 📌 Development Philosophy
 
 <div align="center">
-  <code><b>IDEA ↓ DESIGN ↓ BUILD ↓ TEST ↓ SHIP ↓ IMPROVE</b></code><br/><br/>
-  <b>clarity → usability → engineering → reliability → iteration</b>
+
+`IDEA → DESIGN → BUILD → TEST → SHIP → IMPROVE`
+
+**clarity → usability → engineering → reliability → iteration**
+
 </div>
 
 ---
@@ -80,14 +89,17 @@ I build modern web, mobile and digital products across frontend, backend, APIs, 
 ## 📬 Get In Touch
 
 <div align="center">
-  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <br/><br/>
-  <i>Open to collaboration, freelance projects and interesting ideas.</i>
+
+<a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
+<br/><br/>
+
+<i>Open to collaboration, freelance projects and interesting ideas.</i>
+
 </div>
 
 <br/>
-
 <div align="center">
   <img src="./footer.svg" width="100%" alt="Footer"/>
 </div>
