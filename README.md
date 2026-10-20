@@ -21,6 +21,19 @@ I build products end to end: the interface, the API, the database and the deploy
 
 <img src="./assets/marquee.svg" width="100%" alt="Scrolling: full-stack, Next.js, React, Django REST, PostgreSQL, Flutter, Cloudflare, AI integration, UI/UX"/>
 
+<br/>
+
+<div align="center">
+
+<a href="#about"><img src="https://img.shields.io/badge/-About-0B1B33?style=flat-square&labelColor=0B1B33&color=60A5FA" alt="Jump to About"/></a>
+<a href="#technologies"><img src="https://img.shields.io/badge/-Technologies-0B1B33?style=flat-square&labelColor=0B1B33&color=22C55E" alt="Jump to Technologies"/></a>
+<a href="#services"><img src="https://img.shields.io/badge/-Services-0B1B33?style=flat-square&labelColor=0B1B33&color=F59E0B" alt="Jump to Services"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/-Projects-0B1B33?style=flat-square&labelColor=0B1B33&color=F472B6" alt="Jump to Projects"/></a>
+<a href="#activity"><img src="https://img.shields.io/badge/-Activity-0B1B33?style=flat-square&labelColor=0B1B33&color=A78BFA" alt="Jump to Activity"/></a>
+<a href="#get-in-touch"><img src="https://img.shields.io/badge/-Contact-0B1B33?style=flat-square&labelColor=0B1B33&color=EF4444" alt="Jump to Get in touch"/></a>
+
+</div>
+
 ---
 
 ## About
@@ -45,6 +58,10 @@ Most of the work lands in admin panels and SaaS dashboards, e-commerce, and data
 Open to freelance work, internships and full-time offers.
 
 This site speaks three languages: uz, en, ru.
+
+<img src="https://img.shields.io/badge/1000%2B-60A5FA?style=flat-square&labelColor=0B1B33&logo=pytest&logoColor=white" alt="Over 1000 test cases"/>
+<img src="https://img.shields.io/badge/4%20live-22C55E?style=flat-square&labelColor=0B1B33&logo=rocket&logoColor=white" alt="4 products live"/>
+<img src="https://img.shields.io/badge/3%20locales-F59E0B?style=flat-square&labelColor=0B1B33" alt="3 interface languages"/>
 
 </td>
 </tr>
@@ -152,14 +169,6 @@ Also: AI and automation, UI/UX design in Figma.
 ## Projects
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-  <a href="https://evzap-parts.uz"><img src="./assets/evzap.png" alt="EVZAP storefront" width="32%"/></a>
-  <a href="https://sardordev-delta.vercel.app"><img src="./assets/portfolio.png" alt="Portfolio homepage" width="32%"/></a>
-  <a href="https://geoecofauna.uz"><img src="./assets/geoekofauna-card.png" alt="Geoekofauna catalog" width="32%"/></a>
-</div>
-
-<br/>
 
 <table>
 <tr>
@@ -366,6 +375,20 @@ The public repository worth reading is [aziz-academy-topshiriqlar](https://githu
 <a href="https://github.com/Sardor-Dev-2010/sardorbuilder-content"><img src="https://img.shields.io/badge/sardorbuilder--content-181717?style=flat-square&logo=instagram&logoColor=E1306C" alt="sardorbuilder-content repository"/></a>
 
 If you want to see code from the private projects, ask and I will walk you through the architecture on a call.
+
+---
+
+## Activity
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+The snake eats its way through my contributions, updating itself every 12 hours.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sardor-Dev-2010/Sardor-Dev-2010/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sardor-Dev-2010/Sardor-Dev-2010/output/github-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Sardor-Dev-2010/Sardor-Dev-2010/output/github-snake-dark.svg" alt="Snake animation over my GitHub contributions" width="100%"/>
+</picture>
 
 ---
 
