@@ -30,7 +30,7 @@
   <path class="wave" d="M 0 250 L 0 220 Q 300 180 600 220 T 1200 180 L 1200 250 Z" fill="#07111F" style="animation-delay: -5s;"/>
 
   <text x="600" y="110" class="title">ELMURODOV SARDOR</text>
-  <text x="600" y="160" class="subtitle">Full-Stack &amp; Mobile Developer</text>
+  <text x="600" y="160" class="subtitle">Full-Stack Web Developer (React / Next.js)</text>
   <text x="600" y="210" class="typewriter">DESIGN. BUILD. SHIP.</text>
 
 </svg>
