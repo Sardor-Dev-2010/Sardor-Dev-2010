@@ -161,15 +161,196 @@ Also: AI and automation, UI/UX design in Figma.
 
 <br/>
 
-| Project | What it is | Stack | Live |
-|---------|------------|-------|------|
-| **EVZAP** | Auto parts store in four languages: session cart, admin panel with two-factor sign-in, Telegram bot | <img src="https://img.shields.io/badge/Flask-3FC483?style=flat-square&logo=flask&logoColor=black" alt="Flask"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> | [evzap-parts.uz](https://evzap-parts.uz) |
-| **This portfolio** | Frontend, API and admin CMS for this site: projects and case studies edited from the browser | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> | [sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) |
-| **Geoekofauna** | Catalog of Uzbekistan wildlife: 206 protected animals, IUCN and CITES status, PDF reports, Telegram sign-in | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/> <img src="https://img.shields.io/badge/D1-7C3AED?style=flat-square" alt="D1"/> | [geoecofauna.uz](https://geoecofauna.uz) |
-| **BolaJon OS** | Kids learning app: one Flutter codebase for Android, iOS, web and Windows, parent dashboard | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> | [bolajon-os.vercel.app](https://bolajon-os.vercel.app/) |
-| **FixIt** | Platform for finding technicians in Toshkent: describe the problem, compare offers, pick someone | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/> | [fixit-chi-weld.vercel.app](https://fixit-chi-weld.vercel.app) |
-| **Sehrli Qalpoqcha** | Real-time invisibility cloak experiment with OpenCV | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/> <img src="https://img.shields.io/badge/OpenCV-E52D27?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/> | private |
-| **Aziz Academy** | Python coursework: over 1,000 exercise files across the modules I completed | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/> | [public source](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar) |
+<table>
+<tr>
+<td width="13%">
+
+**Project**
+
+</td>
+<td width="37%">
+
+**What it is**
+
+</td>
+<td width="32%">
+
+**Stack**
+
+</td>
+<td width="18%">
+
+**Live**
+
+</td>
+</tr>
+<tr>
+<td>
+
+**EVZAP**
+
+</td>
+<td>
+
+Auto parts store in four languages: session cart, admin panel with two-factor sign-in, Telegram bot
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Flask-3FC483?style=flat-square&logo=flask&logoColor=black" alt="Flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
+</td>
+<td>
+
+[evzap-parts.uz](https://evzap-parts.uz)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**This portfolio**
+
+</td>
+<td>
+
+Frontend, API and admin CMS for this site: projects and case studies edited from the browser
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+</td>
+<td>
+
+[sardordev-delta.vercel.app](https://sardordev-delta.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Geoekofauna**
+
+</td>
+<td>
+
+Catalog of Uzbekistan wildlife: 206 protected animals, IUCN and CITES status, PDF reports, Telegram sign-in
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
+<img src="https://img.shields.io/badge/D1-7C3AED?style=flat-square" alt="D1"/>
+
+</td>
+<td>
+
+[geoecofauna.uz](https://geoecofauna.uz)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**BolaJon OS**
+
+</td>
+<td>
+
+Kids learning app: one Flutter codebase for Android, iOS, web and Windows, parent dashboard
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+</td>
+<td>
+
+[bolajon-os.vercel.app](https://bolajon-os.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**FixIt**
+
+</td>
+<td>
+
+Platform for finding technicians in Toshkent: describe the problem, compare offers, pick someone
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+
+</td>
+<td>
+
+[fixit-chi-weld.vercel.app](https://fixit-chi-weld.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Sehrli Qalpoqcha**
+
+</td>
+<td>
+
+Real-time invisibility cloak experiment with OpenCV
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/OpenCV-E52D27?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+
+</td>
+<td>
+
+private
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Aziz Academy**
+
+</td>
+<td>
+
+Python coursework: over 1,000 exercise files across the modules I completed
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+
+</td>
+<td>
+
+[public source](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar)
+
+</td>
+</tr>
+</table>
 
 <sub>Client code stays private. Every demo above is open to anyone who wants to click it.</sub>
 
