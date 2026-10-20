@@ -1,17 +1,16 @@
-<div align="center">
-  <img src="./header.svg" width="100%" alt="Elmurodov Sardor"/>
-</div>
+<h1 align="center">Elmurodov Sardor</h1>
 
-<div align="center">
+<p align="center">
+  <b>Full-Stack Web & Mobile Developer</b><br/>
+  Toshkent · React / Next.js · Flutter · Django
+</p>
 
-**Elmurodov Sardor · Full-Stack Web & Mobile Developer**
-
-<a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Sardor-Dev-2010&style=for-the-badge&color=3B82F6" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://sardordev-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
@@ -56,13 +55,12 @@ I build web sites and mobile apps from Tashkent. One person covers the whole pat
 
 <div align="center">
 
-| Profile | Top languages |
-|:-------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=07111F&count_private=true&include_all_commits=true" width="420" alt="GitHub stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=07111F&langs_count=8" width="420" alt="Top languages"/> |
+<img src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&rank_icon=github&bg_color=07111F" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=07111F&langs_count=8" width="49%" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sardor-Dev-2010&hide_border=true&background=07111F&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&sideLabels=ffffff" width="420" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Sardor-Dev-2010&hide_border=true&background=07111F&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&border=3B82F6" width="420" alt="GitHub streak"/>
 
 </div>
 
@@ -76,18 +74,9 @@ I build web sites and mobile apps from Tashkent. One person covers the whole pat
 
 ## Get in touch
 
-<div align="center">
+<p align="center">
+  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
-<a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
-<br/><br/>
-
-<i>Open to freelance work, internships and interesting ideas.</i>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="./footer.svg" width="100%" alt="Footer"/>
-</div>
+<p align="center"><i>Open to freelance work, internships and interesting ideas.</i></p>
