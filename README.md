@@ -1,215 +1,126 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Elmurodov Sardor</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer from Uzbekistan 🇺🇿</h3>
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Elmurodov Sardor"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=560&lines=Full-Stack+Web+%26+Mobile+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+Flutter;Web+sites%2C+mobile+apps%2C+Telegram+bots;Open+to+freelance+work+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://sardordev-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sardordev--delta.vercel.app-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" /></a>
-  <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
-</p>
+**Elmurodov Sardor, full-stack web developer (React / Next.js, Django)**
 
-<br/>
+<a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/Sardor-Dev-2010"><img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<!-- ===================== ABOUT ===================== -->
-<h2 align="center">👋 &nbsp;About me</h2>
+</div>
 
-<table align="center">
+---
+
+## About
+
+<table>
 <tr>
-<td>
+<td width="40%">
 
-```yaml
-name:        Sardor Elmurodov
-location:    Tashkent, Uzbekistan 🇺🇿
-role:        Full-Stack Web & Mobile Developer
-working_on:  [ Web sites, Mobile apps, Telegram bots ]
-stack:       [ React, Next.js, Django REST, Flutter, PostgreSQL ]
-focus:       [ AI integrations, RAG, chatbots ]
-open_to:     [ Freelance, Internship, Remote ]
-```
+**What I do**
+
+I build web products end to end: the React and Next.js interface, the Django REST API, the PostgreSQL queries and the deployment that keeps it running.
+
+Most of the work lands in admin panels and SaaS dashboards, e-commerce, and data-heavy catalog sites.
+
+</td>
+<td width="30%">
+
+**Stack**
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Django REST` `PostgreSQL`
+
+Also Flutter for mobile, Telegram bots, LLM integration, UI/UX in Figma.
+
+</td>
+<td width="30%">
+
+**Availability**
+
+Open to freelance work, internships and full-time offers.
+
+This site speaks three languages: uz, en, ru.
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-I build <b>web sites with React and Next.js</b>, <b>backends with Django REST</b> and<br/>
-<b>mobile apps with Flutter</b>. I write the interface, the API, the database and the<br/>
-deployment myself, so projects move faster with fewer handoffs.
-</p>
+---
 
-<br/>
+## Services
 
-<!-- ===================== TECH STACK ===================== -->
-<h2 align="center">🧰 &nbsp;Tech Stack</h2>
+<table>
+<tr>
+<td width="50%">
 
-<table align="center">
-  <tr>
-    <td align="center"><b>💻&nbsp;Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️&nbsp;Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="aiogram" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>📱&nbsp;Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️&nbsp;Databases&nbsp;&&nbsp;Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-    </td>
-  </tr>
+**Web sites**
+
+- React/Next.js web applications
+- SaaS platforms and admin panels
+- E-commerce and CRM systems
+- REST APIs and integrations
+
+</td>
+<td width="50%">
+
+**Mobile apps**
+
+- iOS/Android apps with Flutter
+- Cross-platform from a single codebase
+- Play Market and App Store publishing
+- Mobile backends and push notifications
+
+</td>
+</tr>
 </table>
 
-<br/>
+Also: AI and automation, UI/UX design in Figma.
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<h2 align="center">🚀 &nbsp;Featured Projects</h2>
+---
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 EVZAP Parts</h3>
-      <p align="center">
-        <a href="https://evzap-parts.uz"><img src="https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-      <p align="center">
-        Online store in four languages with a Telegram bot,<br/>
-        admin panel and 2FA. Flask · SQLAlchemy · PostgreSQL.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Portfolio</h3>
-      <p align="center">
-        <a href="https://sardordev-delta.vercel.app"><img src="https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-      <p align="center">
-        This site. Admin CMS, three languages, 3D hero.<br/>
-        Next.js 16 · Django REST · Render.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧒 BolaJon OS</h3>
-      <p align="center">
-        <a href="https://bolajon-os.vercel.app"><img src="https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-      <p align="center">
-        Learning app for kids with a parent dashboard.<br/>
-        Flutter · Django REST · PostgreSQL.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌿 Geoekafauna</h3>
-      <p align="center">
-        <a href="https://geoecofauna.uz"><img src="https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-      </p>
-      <p align="center">
-        Biodiversity catalog for Uzbekistan with a Telegram bot<br/>
-        on the same data. React 19 · Cloudflare Workers.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎩 Sehrli Qalpoqcha</h3>
-      <p align="center">
-        <a href="https://github.com/Sardor-Dev-2010/Sehrli-Qalpoqcha"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
-      </p>
-      <p align="center">
-        Real-time invisibility cloak experiment.<br/>
-        Python · OpenCV · NumPy.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🐍 Aziz Academy</h3>
-      <p align="center">
-        <a href="https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
-      </p>
-      <p align="center">
-        Over 1,000 Python exercises from my coursework,<br/>
-        collected in one repo. Python.
-      </p>
-    </td>
-  </tr>
-</table>
+## Projects
 
-<p align="center">
-  <sub>Client code stays private. Also open source:
-  <a href="https://github.com/Sardor-Dev-2010/sardorbuilder-content">sardorbuilder-content</a></sub>
-</p>
+<div align="center">
+  <a href="https://evzap-parts.uz"><img src="./assets/evzap.jpg" alt="EVZAP storefront" width="32%"/></a>
+  <a href="https://sardordev-delta.vercel.app"><img src="./assets/portfolio-live.jpg" alt="Portfolio homepage" width="32%"/></a>
+  <a href="https://geoecofauna.uz"><img src="./assets/geoekofauna.jpg" alt="Geoekofauna catalog" width="32%"/></a>
+</div>
+
+| Project | What it is | Stack | Live |
+|---------|------------|-------|------|
+| **EVZAP** | Online store in four languages: session cart, admin panel with two-factor sign-in, Telegram bot | Flask, SQLAlchemy, Tailwind CSS | [evzap-parts.uz](https://evzap-parts.uz) |
+| **This portfolio** | Frontend, API and admin CMS for this site: projects and case studies edited from the browser | Next.js 16, Django REST, PostgreSQL | [sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) |
+| **Geoekofauna** | Catalog of Uzbekistan species: 206 protected animals, IUCN/CITES data, PDF reports, Telegram sign-in | React 19, Cloudflare Workers, D1 | [geoecofauna.uz](https://geoecofauna.uz) |
+| **BolaJon OS** | Kids learning app: one Flutter codebase for Android, iOS, web and Windows, parent dashboard | Flutter, Django REST, PostgreSQL | [bolajon-os.vercel.app](https://bolajon-os.vercel.app/) |
+| **FixIt** | Platform for finding technicians in Toshkent: describe the problem, compare offers, pick someone | Next.js 16, Django REST, Flutter | [fixit-chi-weld.vercel.app](https://fixit-chi-weld.vercel.app) |
+| **Sehrli Qalpoqcha** | Real-time invisibility cloak experiment with OpenCV | Python, OpenCV | private |
+| **Aziz Academy** | Python coursework: over 1,000 exercise files across the modules I completed | Python | [public source](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar) |
+
+<sub>Client code stays private. Every demo above is open to anyone who wants to click it.</sub>
+
+---
+
+## Public code
+
+The public repository worth reading is [aziz-academy-topshiriqlar](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar): over 1,000 Python exercise files from my coursework, with a changelog, contribution guide and security policy. There is also [sardorbuilder-content](https://github.com/Sardor-Dev-2010/sardorbuilder-content), the image assets behind the @sardorbuilder Instagram account.
+
+If you want to see code from the private projects, ask and I will walk you through the architecture on a call.
+
+---
+
+## Get in touch
+
+<div align="center">
+
+<a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
+</div>
 
 <br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/Sardor-Dev-2010?style=for-the-badge&logo=github&logoColor=white&label=Sardor-Dev-2010&color=3B82F6&labelColor=0D1117" alt="Last commit: Sardor-Dev-2010" />
-  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/aziz-academy-topshiriqlar?style=for-the-badge&logo=python&logoColor=white&label=Aziz+Academy&color=3B82F6&labelColor=0D1117" alt="Last commit: Aziz Academy" />
-  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/sardorbuilder-content?style=for-the-badge&logo=markdown&logoColor=white&label=sardorbuilder-content&color=3B82F6&labelColor=0D1117" alt="Last commit: sardorbuilder-content" />
-  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/Sehrli-Qalpoqcha?style=for-the-badge&logo=opencv&logoColor=white&label=Sehrli+Qalpoqcha&color=3B82F6&labelColor=0D1117" alt="Last commit: Sehrli Qalpoqcha" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Sardor-Dev-2010?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3B82F6&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/languages/top/Sardor-Dev-2010/aziz-academy-topshiriqlar?style=for-the-badge&label=Main+language&color=3B82F6&labelColor=0D1117" alt="Main language: Python" />
-</p>
-
-<br/>
-
-<!-- ===================== UZBEK ===================== -->
-<details align="center">
-<summary><b>🇺🇿 &nbsp;O'zbekcha · men haqimda</b></summary>
-<br/>
-
-<p align="center">
-Assalomu alaykum! Men <b>Sardor Elmurodov</b>, Toshkentdan full-stack dasturchiman.<br/><br/>
-<b>React</b> va <b>Next.js</b> bilan veb saytlar, <b>Django REST</b> bilan API'lar,<br/>
-<b>Flutter</b> bilan mobil ilovalar yozaman. Telegram botlar va AI integratsiyalari ham bor.<br/>
-Butun loyihani o'zim oxirigacha yetkazaman: interfeysdan tortib servergacha.
-</p>
-
-<p align="center">
-📫 Bog'lanish: <a href="mailto:sardor007elmurodov@gmail.com">sardor007elmurodov@gmail.com</a> ·
-<a href="https://t.me/SardorDev2010">Telegram</a> ·
-<a href="https://sardordev-delta.vercel.app">sardordev-delta.vercel.app</a>
-</p>
-
-<p align="center">
-<i>Freelance, amaliyot va qiziqarli takliflar uchun ochiqman.</i>
-</p>
-
-</details>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <sub>Thanks for visiting! ⭐</sub>
-</p>
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="Footer"/>
+</div>
