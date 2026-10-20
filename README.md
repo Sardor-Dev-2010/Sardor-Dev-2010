@@ -12,10 +12,6 @@
   <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Sardor-Dev-2010?style=flat-square&logo=github&logoColor=white&color=3B82F6&labelColor=0D1117" alt="Followers" />
-</p>
-
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
@@ -174,12 +170,15 @@ deployment myself, so projects move faster with fewer handoffs.
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sardor-Dev-2010&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-Dev-2010&layout=compact&hide_border=true&langs_count=8&title_color=3B82F6&text_color=ffffff&bg_color=0D1117" alt="Top languages" />
+  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/Sardor-Dev-2010?style=for-the-badge&logo=github&logoColor=white&label=Sardor-Dev-2010&color=3B82F6&labelColor=0D1117" alt="Last commit: Sardor-Dev-2010" />
+  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/aziz-academy-topshiriqlar?style=for-the-badge&logo=python&logoColor=white&label=Aziz+Academy&color=3B82F6&labelColor=0D1117" alt="Last commit: Aziz Academy" />
+  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/sardorbuilder-content?style=for-the-badge&logo=markdown&logoColor=white&label=sardorbuilder-content&color=3B82F6&labelColor=0D1117" alt="Last commit: sardorbuilder-content" />
+  <img src="https://img.shields.io/github/last-commit/Sardor-Dev-2010/Sehrli-Qalpoqcha?style=for-the-badge&logo=opencv&logoColor=white&label=Sehrli+Qalpoqcha&color=3B82F6&labelColor=0D1117" alt="Last commit: Sehrli Qalpoqcha" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sardor-Dev-2010&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=0D1117" alt="Streak" />
+  <img src="https://img.shields.io/github/followers/Sardor-Dev-2010?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3B82F6&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/top/Sardor-Dev-2010/aziz-academy-topshiriqlar?style=for-the-badge&label=Main+language&color=3B82F6&labelColor=0D1117" alt="Main language: Python" />
 </p>
 
 <br/>
