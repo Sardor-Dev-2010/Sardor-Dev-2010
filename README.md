@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Elmurodov Sardor, full-stack web developer (React / Next.js, Django)**
+**Elmurodov Sardor, full-stack developer: web sites and mobile apps (React / Next.js, Flutter)**
 
 <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -16,13 +16,19 @@
 
 ## About
 
-I build web products end to end: React and Next.js frontends, Django REST backends, PostgreSQL, and the deployment that keeps them running. Most of my work falls into three shapes: admin panels and SaaS dashboards, e-commerce, and data-heavy catalog sites.
+I build two things: web sites and mobile apps. Both get the same treatment: interface, API, database, deployment.
 
-Whoever hires me gets one person for the whole path. I write the interface, the API and the queries, then put the result on a real domain.
+**Web sites.** React and Next.js in front, Django REST and PostgreSQL behind them. Admin panels, SaaS dashboards, e-commerce and catalog sites.
 
-**Day to day:** React, Next.js, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL
+**Mobile apps.** Flutter for Android, iOS, web and Windows, running against the same Django REST APIs. Telegram bots when a product needs one.
 
-**Also working with, secondary to the web work:** Flutter for mobile apps, Telegram bots, LLM integration, UI/UX in Figma
+Either way I am the person who writes the frontend, the API and the queries, then puts the result on a real domain.
+
+**Web stack:** React, Next.js, TypeScript, Tailwind CSS, Django REST Framework, PostgreSQL
+
+**Mobile stack:** Flutter, Dart, Telegram bots (aiogram)
+
+**Also:** UI/UX in Figma, LLM integration
 
 ---
 
