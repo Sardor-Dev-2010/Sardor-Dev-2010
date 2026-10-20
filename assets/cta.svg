@@ -1,0 +1,38 @@
+<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ctaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111F" />
+      <stop offset="50%" stop-color="#0B1B33" />
+      <stop offset="100%" stop-color="#1E40AF" />
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      .shineBand { animation: glide 6s ease-in-out infinite; }
+      @keyframes glide {
+        0% { transform: translateX(-500px) skewX(-18deg); }
+        60%, 100% { transform: translateX(1300px) skewX(-18deg); }
+      }
+      .headline { font: 700 40px 'Segoe UI', Arial, sans-serif; fill: #FFFFFF; text-anchor: middle; letter-spacing: 1px; }
+      .handle { font: 600 20px 'Consolas', monospace; fill: #93C5FD; text-anchor: middle; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; }
+      @keyframes pulse {
+        0% { opacity: 0.35; r: 6; }
+        50% { opacity: 0.9; r: 9; }
+        100% { opacity: 0.35; r: 6; }
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="140" fill="url(#ctaBg)" rx="16" />
+
+  <text x="600" y="62" class="headline">GOT A PROJECT IN MIND?</text>
+  <circle class="pulse" cx="443" cy="100" r="6" fill="#22C55E" />
+  <text x="608" y="107" class="handle">t.me/SardorDev2010</text>
+
+  <!-- animated shine sweep -->
+  <rect class="shineBand" x="0" y="0" width="420" height="140" fill="url(#shine)" />
+</svg>

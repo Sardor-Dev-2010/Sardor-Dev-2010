@@ -1,0 +1,78 @@
+<svg width="100%" height="52" viewBox="0 0 1200 52" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="strip">
+      <rect x="0" y="0" width="1200" height="52" rx="12" />
+    </clipPath>
+    <linearGradient id="fadeL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050B14" stop-opacity="1" />
+      <stop offset="100%" stop-color="#050B14" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050B14" stop-opacity="0" />
+      <stop offset="100%" stop-color="#050B14" stop-opacity="1" />
+    </linearGradient>
+    <style>
+      .strip { animation: scroll 30s linear infinite; }
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+      .kw { font: 600 18px 'Consolas', monospace; fill: #93C5FD; letter-spacing: 4px; }
+      .dot { fill: #3B82F6; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#strip)">
+    <rect x="0" y="0" width="1200" height="52" rx="12" fill="#050B14" />
+    <rect x="0" y="0" width="1200" height="52" rx="12" fill="none" stroke="#1E3A8A" stroke-width="1" opacity="0.6" />
+
+    <g class="strip">
+      <!-- first copy -->
+      <g transform="translate(0,33)">
+        <text class="kw" x="0" y="0">FULL-STACK</text>
+        <circle class="dot" cx="150" cy="-6" r="3" />
+        <text class="kw" x="175" y="0">NEXT.JS</text>
+        <circle class="dot" cx="300" cy="-6" r="3" />
+        <text class="kw" x="325" y="0">REACT</text>
+        <circle class="dot" cx="430" cy="-6" r="3" />
+        <text class="kw" x="455" y="0">DJANGO REST</text>
+        <circle class="dot" cx="640" cy="-6" r="3" />
+        <text class="kw" x="665" y="0">POSTGRESQL</text>
+        <circle class="dot" cx="830" cy="-6" r="3" />
+        <text class="kw" x="855" y="0">FLUTTER</text>
+        <circle class="dot" cx="985" cy="-6" r="3" />
+        <text class="kw" x="1010" y="0">CLOUDFLARE</text>
+        <circle class="dot" cx="1180" cy="-6" r="3" />
+        <text class="kw" x="1205" y="0">AI INTEGRATION</text>
+        <circle class="dot" cx="1420" cy="-6" r="3" />
+        <text class="kw" x="1445" y="0">UI/UX</text>
+        <circle class="dot" cx="1545" cy="-6" r="3" />
+      </g>
+      <!-- second copy (seamless loop) -->
+      <g transform="translate(1600,33)">
+        <text class="kw" x="0" y="0">FULL-STACK</text>
+        <circle class="dot" cx="150" cy="-6" r="3" />
+        <text class="kw" x="175" y="0">NEXT.JS</text>
+        <circle class="dot" cx="300" cy="-6" r="3" />
+        <text class="kw" x="325" y="0">REACT</text>
+        <circle class="dot" cx="430" cy="-6" r="3" />
+        <text class="kw" x="455" y="0">DJANGO REST</text>
+        <circle class="dot" cx="640" cy="-6" r="3" />
+        <text class="kw" x="665" y="0">POSTGRESQL</text>
+        <circle class="dot" cx="830" cy="-6" r="3" />
+        <text class="kw" x="855" y="0">FLUTTER</text>
+        <circle class="dot" cx="985" cy="-6" r="3" />
+        <text class="kw" x="1010" y="0">CLOUDFLARE</text>
+        <circle class="dot" cx="1180" cy="-6" r="3" />
+        <text class="kw" x="1205" y="0">AI INTEGRATION</text>
+        <circle class="dot" cx="1420" cy="-6" r="3" />
+        <text class="kw" x="1445" y="0">UI/UX</text>
+        <circle class="dot" cx="1545" cy="-6" r="3" />
+      </g>
+    </g>
+
+    <!-- edge fades -->
+    <rect x="0" y="0" width="90" height="52" fill="url(#fadeL)" />
+    <rect x="1110" y="0" width="90" height="52" fill="url(#fadeR)" />
+  </g>
+</svg>

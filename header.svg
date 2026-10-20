@@ -1,36 +1,83 @@
 <svg width="100%" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07111F" />
-      <stop offset="100%" stop-color="#3B82F6" />
+      <stop offset="0%" stop-color="#050B14" />
+      <stop offset="55%" stop-color="#0B1B33" />
+      <stop offset="100%" stop-color="#1E3A8A" />
     </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+    <clipPath id="typeClip">
+      <rect x="430" y="185" width="0" height="34">
+        <animate attributeName="width" values="0;340" dur="0.9s" begin="0.6s" fill="freeze" />
+        <animate attributeName="width" values="340;340" dur="3.4s" begin="1.5s" fill="freeze" />
+        <animate attributeName="width" values="340;0" dur="0.4s" begin="4.9s" fill="freeze" />
+        <animate attributeName="width" values="0;340" dur="0.9s" begin="5.6s" fill="freeze" />
+        <animate attributeName="width" values="340;340" dur="3.4s" begin="6.5s" fill="freeze" />
+        <animate attributeName="width" values="340;0" dur="0.4s" begin="9.9s" fill="freeze" />
+        <animate attributeName="width" values="0;340" dur="0.9s" begin="10.6s" fill="freeze" />
+        <animate attributeName="width" values="340;340" dur="3.4s" begin="11.5s" fill="freeze" />
+        <animate attributeName="width" values="340;0" dur="0.4s" begin="14.9s" fill="freeze" />
+      </rect>
+    </clipPath>
     <style>
-      .title { font: 700 64px 'Segoe UI', Arial, sans-serif; fill: #ffffff; text-anchor: middle; }
-      .subtitle { font: 400 28px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; text-anchor: middle; }
-      .wave {
-        animation: wave 10s infinite linear;
-        transform-origin: center bottom;
-      }
+      .title { font: 700 60px 'Segoe UI', Arial, sans-serif; fill: url(#nameGrad); text-anchor: middle; letter-spacing: 3px; }
+      .subtitle { font: 400 26px 'Segoe UI', Arial, sans-serif; fill: #CBD5E1; text-anchor: middle; }
+      .typewriter { font: 600 22px 'Consolas', 'Fira Code', monospace; fill: #60A5FA; text-anchor: start; }
+      .wave { animation: wave 10s infinite linear; transform-origin: center bottom; }
       @keyframes wave {
         0% { transform: scaleY(1); }
-        50% { transform: scaleY(1.1); }
+        50% { transform: scaleY(1.12); }
         100% { transform: scaleY(1); }
       }
-      .typewriter {
-        font: 600 24px 'Fira Code', monospace;
-        fill: #60A5FA;
-        text-anchor: middle;
+      .particle { animation: float 6s ease-in-out infinite; }
+      @keyframes float {
+        0% { transform: translateY(0); opacity: 0.15; }
+        50% { transform: translateY(-14px); opacity: 0.7; }
+        100% { transform: translateY(0); opacity: 0.15; }
       }
+      .bar { animation: barPulse 4s ease-in-out infinite; }
+      @keyframes barPulse {
+        0% { opacity: 0.75; }
+        50% { opacity: 1; }
+        100% { opacity: 0.75; }
+      }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     </style>
   </defs>
 
   <rect width="100%" height="250" fill="url(#bg)" rx="15" />
-  
-  <path class="wave" d="M 0 250 L 0 200 Q 300 150 600 200 T 1200 200 L 1200 250 Z" fill="#050B14" opacity="0.8"/>
-  <path class="wave" d="M 0 250 L 0 220 Q 300 180 600 220 T 1200 180 L 1200 250 Z" fill="#07111F" style="animation-delay: -5s;"/>
 
-  <text x="600" y="110" class="title">ELMURODOV SARDOR</text>
-  <text x="600" y="160" class="subtitle">Full-Stack Web Developer (React / Next.js)</text>
-  <text x="600" y="210" class="typewriter">DESIGN. BUILD. SHIP.</text>
+  <!-- floating particles -->
+  <circle class="particle" cx="120" cy="60" r="3" fill="#60A5FA" />
+  <circle class="particle" cx="240" cy="40" r="2" fill="#93C5FD" style="animation-delay:-1.2s" />
+  <circle class="particle" cx="980" cy="52" r="3" fill="#60A5FA" style="animation-delay:-2.4s" />
+  <circle class="particle" cx="1090" cy="80" r="2" fill="#93C5FD" style="animation-delay:-3.1s" />
+  <circle class="particle" cx="860" cy="34" r="2" fill="#FFFFFF" style="animation-delay:-4.3s" />
+  <circle class="particle" cx="340" cy="86" r="2" fill="#FFFFFF" style="animation-delay:-5.1s" />
+
+  <!-- animated waves -->
+  <path class="wave" d="M 0 250 L 0 205 Q 300 155 600 205 T 1200 205 L 1200 250 Z" fill="#050B14" opacity="0.8"/>
+  <path class="wave" d="M 0 250 L 0 225 Q 300 185 600 225 T 1200 185 L 1200 250 Z" fill="#07111F" style="animation-delay: -5s;"/>
+
+  <text x="600" y="105" class="title">ELMURODOV SARDOR</text>
+
+  <!-- animated underline -->
+  <rect class="bar" x="470" y="122" width="260" height="4" rx="2" fill="url(#barGrad)" />
+
+  <text x="600" y="162" class="subtitle">Full-Stack Web &amp; Mobile Developer</text>
+
+  <!-- typing line with clip reveal + blinking cursor -->
+  <g clip-path="url(#typeClip)">
+    <text x="430" y="208" class="typewriter">React · Next.js · Django · Flutter</text>
+  </g>
+  <rect class="cursor" x="778" y="190" width="10" height="22" fill="#60A5FA" opacity="0.9" />
 
 </svg>
