@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Elmurodov Sardor — Full-Stack & Mobile Developer · UI/UX · AI · Telegram Bots**
+**Elmurodov Sardor · Full-Stack Web & Mobile Developer · UI/UX · AI · Telegram Bots**
 
 <a href="mailto:sardor007elmurodov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://t.me/SardorDev2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -17,7 +17,7 @@
 
 ## 📖 About Me
 
-I build modern web, mobile and digital products across frontend, backend, APIs, databases and UI/UX — turning ideas into usable, well-structured products.
+I build web sites and mobile apps. Frontend, backend, APIs, databases and UI/UX: an idea goes in, something usable comes out.
 
 | | | |
 |:--:|:--:|:--:|
@@ -45,14 +45,14 @@ I build modern web, mobile and digital products across frontend, backend, APIs, 
 
 | Project | Category | Live Demo | Status | Tech Stack | Description |
 |---------|----------|-----------|--------|------------|-------------|
-| 🛍️ **EVZAP** | 🛍️ Commerce | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Flask, SQLAlchemy, Tailwind, PostgreSQL | Multilingual e-commerce with Telegram bot, admin panel & 2FA |
-| 🎨 **Portfolio** | 🎨 Portfolio | [🔗 sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) | 🔒 Private | Next.js 16, React 19, Three.js, Django REST | Immersive portfolio with admin CMS, 3D hero & AI assistant |
-| 🎮 **BolaJon OS** | 🎓 EdTech | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔒 Private | Flutter, Django REST, PostgreSQL | Educational "OS" for kids — gamified learning & parent dashboard |
-| 🌍 **Geoekafauna** | 🌍 Ecology | [🔗 geoecofauna.uz](https://geoecofauna.uz) | 🔒 Private | React 19, Vite, Cloudflare Workers | Biodiversity & ecological data platform for Uzbekistan |
+| 🛍️ **EVZAP** | 🛍️ Commerce | [🔗 evzap-parts.uz](https://evzap-parts.uz) | 🔒 Private | Flask, SQLAlchemy, Tailwind, PostgreSQL | Online store in four languages, with a Telegram bot, admin panel and 2FA |
+| 🎨 **Portfolio** | 🎨 Portfolio | [🔗 sardordev-delta.vercel.app](https://sardordev-delta.vercel.app) | 🔒 Private | Next.js 16, React 19, Three.js, Django REST | This site: admin CMS, 3D hero, three languages, AI assistant |
+| 🎮 **BolaJon OS** | 🎓 EdTech | [🔗 bolajon-os.vercel.app](https://bolajon-os.vercel.app) | 🔒 Private | Flutter, Django REST, PostgreSQL | Learning app for kids: gamified lessons and a parent dashboard |
+| 🌍 **Geoekafauna** | 🌍 Ecology | [🔗 geoecofauna.uz](https://geoecofauna.uz) | 🔒 Private | React 19, Vite, Cloudflare Workers | Biodiversity catalog for Uzbekistan, plus a Telegram bot on the same data |
 | 🎩 **Sehrli Qalpoqcha** | 🔬 Computer Vision | — | 🔒 Private | Python, OpenCV, NumPy | Real-time invisibility cloak experiment |
-| 🎓 **Aziz Academy** | 🎓 EdTech | — | 🔓 Public | Python | 300+ algorithmic exercises across 30+ topics |
+| 🎓 **Aziz Academy** | 🎓 EdTech | — | 🔓 Public | Python | Over 1,000 exercise files from my Python coursework |
 
-<sub>🔒 Private repos are visible only to me — live demos are open to everyone.</sub>
+<sub>🔒 Private repos are mine, but every live demo above is open to anyone who wants to click it.</sub>
 
 <sub>**🌍 Open Source:** [aziz-academy-topshiriqlar](https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar) 🟡1 · [sardorbuilder-content](https://github.com/Sardor-Dev-2010/sardorbuilder-content)</sub>
 
