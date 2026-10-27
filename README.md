@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Elmurodov Sardor — animated banner"/>
+  <img src="./header.svg" width="100%" alt="Elmurodov Sardor · Banner"/>
 </div>
 
 <div align="center">
 
-**Elmurodov Sardor — full-stack web & mobile developer**
+**Elmurodov Sardor · Full-Stack Web & Mobile Developer**
 
-I build products end to end: the interface, the API, the database and the deployment.
+I build web and mobile products end to end: interface, API, database, and deployment.
 
 <br/>
 
@@ -46,18 +46,18 @@ I build products end to end: the interface, the API, the database and the deploy
 
 **What I do**
 
-I build web products end to end: the React and Next.js interface, the Django REST API, the PostgreSQL queries and the deployment that keeps it running.
+I build web and mobile products end to end: React and Next.js interfaces, Django REST APIs, PostgreSQL databases, and Flutter apps.
 
-Most of the work lands in admin panels and SaaS dashboards, e-commerce, and data-heavy catalog sites.
+Most of my work covers admin panels, client dashboards, online stores, and data catalogs.
 
 </td>
 <td width="45%">
 
 **Availability**
 
-Open to freelance work, internships and full-time offers.
+Open to freelance projects, internships, and full-time opportunities.
 
-This site speaks three languages: uz, en, ru.
+Working in three languages: Uzbek, English, and Russian.
 
 <img src="https://img.shields.io/badge/1000%2B-60A5FA?style=flat-square&labelColor=0B1B33&logo=pytest&logoColor=white" alt="Over 1000 test cases"/>
 <img src="https://img.shields.io/badge/4%20live-22C55E?style=flat-square&labelColor=0B1B33&logo=rocket&logoColor=white" alt="4 products live"/>
@@ -162,7 +162,7 @@ Hosted on Vercel, Render and Cloudflare. The Sehrli Qalpoqcha experiment adds `O
 </tr>
 </table>
 
-Also: AI and automation, UI/UX design in Figma.
+Also: Telegram bots, automation, and UI/UX design in Figma.
 
 ---
 
@@ -361,7 +361,7 @@ Python coursework: over 1,000 exercise files across the modules I completed
 </tr>
 </table>
 
-<sub>Client code stays private. Every demo above is open to anyone who wants to click it.</sub>
+<sub>Client repositories remain private. Every live demo above is open to test.</sub>
 
 ---
 
@@ -374,7 +374,7 @@ The public repository worth reading is [aziz-academy-topshiriqlar](https://githu
 <a href="https://github.com/Sardor-Dev-2010/aziz-academy-topshiriqlar"><img src="https://img.shields.io/badge/aziz--academy--topshiriqlar-181717?style=flat-square&logo=github&logoColor=white" alt="aziz-academy-topshiriqlar repository"/></a>
 <a href="https://github.com/Sardor-Dev-2010/sardorbuilder-content"><img src="https://img.shields.io/badge/sardorbuilder--content-181717?style=flat-square&logo=instagram&logoColor=E1306C" alt="sardorbuilder-content repository"/></a>
 
-If you want to see code from the private projects, ask and I will walk you through the architecture on a call.
+If you want to see architecture details or sample code from private projects, feel free to reach out.
 
 ---
 
